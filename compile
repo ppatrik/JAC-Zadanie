@@ -1,0 +1,4 @@
+#!/bin/sh
+clear
+make program
+./program -i visits.in1
